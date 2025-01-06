@@ -9,8 +9,8 @@ This is just a plain board that connects a RC522 board with an Arduino Nano.
 This project was made out of frustration due to wiring the RC522 board with an Arduino Nano every time I wanted to use it.
 
 # Making this yourself
-![picture of actual front](</images/actual_front.png>)
-![picture of actual back](</images/actual_back.png>)
+![picture of actual front](</images/actual_front.jpg>)
+![picture of actual back](</images/actual_back.jpg>)
 Simply download the gerber files and upload them to a PCB manufacturer.
 
 I'd recommend JLCPCB as they're cheap and have good quality. I've used them for this project and they turned out great.
