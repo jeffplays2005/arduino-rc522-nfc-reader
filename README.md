@@ -1,4 +1,7 @@
 # arduino-rc522-nfc-reader
+![picture of the front](</images/front.png>)
+![picture of the back](</images/back.png>)
+
 Arduino RC522 NFC Reader PCB Board
 
 This is just a plain board that connects a RC522 board with an Arduino Nano.
